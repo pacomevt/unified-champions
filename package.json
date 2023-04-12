@@ -1,0 +1,24 @@
+{
+  "name": "unified-champions",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.11.5",
+    "lil-gui": "^0.18.1",
+    "pinia": "^2.0.32",
+    "sass": "^1.60.0",
+    "three": "^0.151.3",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.32.11",
+    "vite": "^4.1.4"
+  }
+}
